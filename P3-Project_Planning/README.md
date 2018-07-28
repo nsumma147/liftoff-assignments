@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+https://app.moqups.com/nsumma147/rvRMz1aCpp/edit/page/a4fd20bf7
 
 ### Project Tracker
+https://trello.com/b/rcwAIrih/bridely-project
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+I didn't get as much done on the project tracker as I was planning, I'm in a wedding this weekend so it's been a little hectic. I am planning on fleshing it out more tomorrow.
