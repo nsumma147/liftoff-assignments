@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-https://app.moqups.com/nsumma147/rvRMz1aCpp/edit/page/a4fd20bf7
+https://app.moqups.com/nsumma147/rvRMz1aCpp/view
 
 ### Project Tracker
 https://trello.com/b/rcwAIrih/bridely-project
